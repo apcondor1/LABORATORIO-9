@@ -49,10 +49,6 @@ los números complejos se puede sumar, restar, multiplicar y dividir cantidades 
 
 MARCO TEORICO:
 
-![image](https://user-images.githubusercontent.com/117923992/221091696-a4a04579-4c69-44e3-baa9-541b7560ebac.png)
-
-![image](https://user-images.githubusercontent.com/117923992/221091734-170b3ad5-9ae9-4e10-a640-8510af59fe1a.png)
-
 
 MATERIAL Y EQUIPO REQUERIDO
 
@@ -163,11 +159,18 @@ EJERCICIO NUMERO 3
  
 a)
 
+![image](https://user-images.githubusercontent.com/117843879/221089902-6a32b957-afad-4642-99f6-cba2552e7e9a.png)
+
 
 b)
+![image](https://user-images.githubusercontent.com/117843879/221091861-de4c7bf0-3e35-4a5f-84bf-a21069805eed.png)
+
+![Uploading image.png…]()
 
 
 c)
+
+![Uploading image.png…]()
 
 
 NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No
